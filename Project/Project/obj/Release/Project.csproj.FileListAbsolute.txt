@@ -1,0 +1,14 @@
+C:\Users\Mick\Desktop\Project\Project\bin\Release\Project.exe.config
+C:\Users\Mick\Desktop\Project\Project\bin\Release\Project.exe
+C:\Users\Mick\Desktop\Project\Project\bin\Release\Project.pdb
+C:\Users\Mick\Desktop\Project\Project\bin\Release\EntityFramework.dll
+C:\Users\Mick\Desktop\Project\Project\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Mick\Desktop\Project\Project\bin\Release\EntityFramework.xml
+C:\Users\Mick\Desktop\Project\Project\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Mick\Desktop\Project\Project\obj\Release\Project.Form1.resources
+C:\Users\Mick\Desktop\Project\Project\obj\Release\Project.Storage.resources
+C:\Users\Mick\Desktop\Project\Project\obj\Release\Project.Login.resources
+C:\Users\Mick\Desktop\Project\Project\obj\Release\Project.Properties.Resources.resources
+C:\Users\Mick\Desktop\Project\Project\obj\Release\Project.csproj.GenerateResource.Cache
+C:\Users\Mick\Desktop\Project\Project\obj\Release\Project.exe
+C:\Users\Mick\Desktop\Project\Project\obj\Release\Project.pdb
